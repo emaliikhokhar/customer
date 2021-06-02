@@ -1,0 +1,9 @@
+C:\Users\HP USER\source\repos\customer\customer\Shared\bin\Debug\netstandard2.1\customer.Shared.deps.json
+C:\Users\HP USER\source\repos\customer\customer\Shared\bin\Debug\netstandard2.1\customer.Shared.dll
+C:\Users\HP USER\source\repos\customer\customer\Shared\bin\Debug\netstandard2.1\customer.Shared.pdb
+C:\Users\HP USER\source\repos\customer\customer\Shared\obj\Debug\netstandard2.1\customer.Shared.csproj.AssemblyReference.cache
+C:\Users\HP USER\source\repos\customer\customer\Shared\obj\Debug\netstandard2.1\customer.Shared.AssemblyInfoInputs.cache
+C:\Users\HP USER\source\repos\customer\customer\Shared\obj\Debug\netstandard2.1\customer.Shared.AssemblyInfo.cs
+C:\Users\HP USER\source\repos\customer\customer\Shared\obj\Debug\netstandard2.1\customer.Shared.csproj.CoreCompileInputs.cache
+C:\Users\HP USER\source\repos\customer\customer\Shared\obj\Debug\netstandard2.1\customer.Shared.dll
+C:\Users\HP USER\source\repos\customer\customer\Shared\obj\Debug\netstandard2.1\customer.Shared.pdb
