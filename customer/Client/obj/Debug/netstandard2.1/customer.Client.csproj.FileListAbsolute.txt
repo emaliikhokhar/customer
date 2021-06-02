@@ -385,6 +385,6 @@ C:\Users\HP USER\source\repos\customer\customer\Client\obj\Debug\netstandard2.1\
 C:\Users\HP USER\source\repos\customer\customer\Client\obj\Debug\netstandard2.1\Razor\Shared\Footer.razor.g.cs
 C:\Users\HP USER\source\repos\customer\customer\Client\obj\Debug\netstandard2.1\RazorDeclaration\Controls\ProductCard.razor.g.cs
 C:\Users\HP USER\source\repos\customer\customer\Client\obj\Debug\netstandard2.1\Razor\Controls\ProductCard.razor.g.cs
-C:\Users\HP USER\source\repos\customer\customer\Client\obj\Debug\netstandard2.1\integrity\LRjnCmjetw0kHl6EnH-sT0eUPX4OWwWQbYkzFt2txU4=.hash
-C:\Users\HP USER\source\repos\customer\customer\Client\obj\Debug\netstandard2.1\integrity\SuotzuNFXn87AQCj7J6y7BOqYG1nvef5idHv1z0aGHk=.hash
-C:\Users\HP USER\source\repos\customer\customer\Client\obj\Debug\netstandard2.1\integrity\IhWnQi887-NgIWzGgjsoBzm-lDvDPa4JOdXksG4NW4w=.hash
+C:\Users\HP USER\source\repos\customer\customer\Client\obj\Debug\netstandard2.1\integrity\q_aW8GkZ78K6C7OUmzdYKaCjjTfzF_E91oH0TA8sPl0=.hash
+C:\Users\HP USER\source\repos\customer\customer\Client\obj\Debug\netstandard2.1\integrity\xnrldsFtdgF6es9_fBVB1mdx-BV-HRPUNYc4wpL0tk8=.hash
+C:\Users\HP USER\source\repos\customer\customer\Client\obj\Debug\netstandard2.1\integrity\V7gwUn-RyvQ76WOCU2_fR8CU2jC5ofCOcg1UEwtnwmI=.hash
